@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns="http://example.org">
+	<opera>
+		<titolo viaf="http://viaf.org/viaf/2262149844945502960002">Hyla e le ninfe</titolo> 
+		<autore viaf="http://viaf.org/viaf/8187046">John William Waterhouse</autore> 
+		<creazione>
+			<data>1896</data> 
+			<luogo GeoNames="https://www.geonames.org/6269131/england.html">Inghilterra</luogo>
+		</creazione>
+		<ubicazione>
+			<città GeoNames="https://www.geonames.org/2643123/manchester.html">Manchester
+			</città>
+			<luogo>Manchester Art Gallery</luogo>
+		</ubicazione>
+		<dimensioni>98,2x163,3cm</dimensioni>
+		<soggetto>opera preraffaellita</soggetto>
+		<descrizione>Scena mitologica tratta dal racconto greco di Giasone e gli Argonauti, che mostra Hylas tentato dalla morte dalle ninfe dell'acqua. Un giovane uomo, con capelli corti e scuri, si sporge in avanti verso una delle ninfe nude nell'acqua, che si aggrappa al suo braccio. È circondata da altre sei ninfe, tutte giovani ragazze nude quasi identiche tra loro. Portano fiori bianchi e gialli intrecciati nei lunghi capelli scuri e lo guardano dall'acqua. La superficie scura dell'acqua è ricoperta di ninfee e fiori.</descrizione> 
+		<tipo>Pittura a olio</tipo> 
+		<identificativo id="Manchester_Art_Gallery">1896.15</identificativo> 
+		<rights>Manchester Art Gallery</rights>
+ 	</opera>
+</catalogo>
